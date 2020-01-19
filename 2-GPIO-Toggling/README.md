@@ -1,4 +1,4 @@
-#Introduction to GPIO
+# Introduction to GPIO
 
 The following video goes through the relevant material on the GPIO pin:
 
