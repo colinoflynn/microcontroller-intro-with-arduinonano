@@ -21,7 +21,7 @@ In this example my device is COM4.
 
 ## Act 3: External Tools
 
-1. Download the file [avrdude-batch.zip](avrdude-batch.zip) and extract somewhere you can use (such as in a Documents folder).
+1. Download the file [avrdude-batch.zip](https://github.com/colinoflynn/microcontroller-intro-with-arduinonano/raw/master/1-Environment-Setup/avrdude-batch.zip) and extract somewhere you can use (such as in a Documents folder).
 2. Open Atmel Studio.
 3. Select "Tools -> External Tools" (if you don't have this see below to fix, then return here).
 4. Somewhere you extracted the zipfile.Press the ```...``` button beside ```commmand```, and point it to the file ```nano-download.bat``` that you extracted.
