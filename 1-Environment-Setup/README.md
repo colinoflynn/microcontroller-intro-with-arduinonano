@@ -16,7 +16,7 @@ If you have previosuly followed these instructions, OR are using a Dalhousie lab
 If you are working on your own computer, you can install Atmel Studio and set it up to work with the Nano. Follow these directions:
 
 1. Install [Atmel Studio](https://www.microchip.com/mplab/avr-support/atmel-studio-7).
-2. Setup the External Nano Downloader (setup-nano-downloader-ver1.md).
+2. Setup the [External Nano Downloader](setup-nano-downloader-ver1.md).
 3. Build the Demo Program (see below).
 
 ## Demo Program
