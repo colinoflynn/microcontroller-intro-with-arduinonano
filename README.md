@@ -4,7 +4,7 @@ An introduction to using Arduino Nano, including Atmel Studio setup instructinos
 
 ## Order of Completion
 
-
+You can roughly follow the numbering in the folders (starting with 1-setup) to make sense. Additional material will be uploaded over time.
 
 ## Getting Help
 
