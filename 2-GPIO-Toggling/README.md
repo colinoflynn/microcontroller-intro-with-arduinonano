@@ -35,7 +35,7 @@ The simple code to read a single pin register and forward to the LED is given be
 			if (PINC & (1<<PINC0)) {
 				PORTB |= (1<<PORTB5);
 				} else {
-				PORTB = ~(1<<PORTB5);
+				PORTB &= ~(1<<PORTB5);
 			}	
 	    }
 	}
