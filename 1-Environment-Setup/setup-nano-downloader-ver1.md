@@ -2,6 +2,10 @@
 
 You can see the following video which goes through all the configuration of these three acts:
 
+[![](youtube-part1.png)](https://www.youtube.com/watch?v=8X2Nppl8gmA)
+
+[ENGI 2203-02: Arduino Nano Atmel Studio Setup (Part 1)](https://www.youtube.com/watch?v=8X2Nppl8gmA)
+
 ## Act 1: Installing Atmel STudio
 
 1. Install Atmel Studio.
@@ -10,7 +14,7 @@ You can see the following video which goes through all the configuration of thes
 ## Act 2: What's my COM Port?
 
 1. Open the Windows Device Manager, by typing ```devmgmt.msc``` into your start menu search or run bar.
-2. Scroll down to "XXXX"
+2. Scroll down to "Ports (COM & LPT)"
 3. Look at existing COM ports - you may not have any (as in my video).
 4. Plug in your Nano device. You may need to install drivers for it to work - if you don't get the COM port, try installing the Arduino software.
 5. Once the device is working, note the COM port number:
