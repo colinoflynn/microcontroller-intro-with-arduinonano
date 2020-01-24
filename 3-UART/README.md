@@ -8,7 +8,7 @@ This simple example will help you enable printf & scanf on your Arduino.
 
 This is shown in detail in this video:
 
-
+[![](youtube-uart.png)](https://youtu.be/8H5kkrIjTnM)
 
 ## ⚠ Serial Port Conflict
 
