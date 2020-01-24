@@ -50,3 +50,15 @@ Code to download:
 			_delay_ms(100);		
 	    }
 	}
+
+## Using multiple files
+
+No doubt you will want more than one source file. Be sure to tell Atmel studio about this, as otherwise it won't compile the code into the resulting file!
+
+See the [Multiple File Instructions](atmelstudio-multifile.md) for details.
+
+# Arduino IDE Instead of Atmel Studio
+
+If you want to use the Arduino IDE but still follow the bare-metal/embedded C examples, not a problem!
+
+Check out [Arduino Setup Instructions](arduino-sketches/README.md) which detail how to use the Arduino IDE but compile the C code shown here.
