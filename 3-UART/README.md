@@ -3,7 +3,7 @@
 This simple example will help you enable printf & scanf on your Arduino.
 
 1. Download the file ```uart_utility_function.c```
-2. Add to an Atmel Studio project (see XXXX).
+2. Add to an Atmel Studio project (see [atmelstudio-multifile.md](https://github.com/colinoflynn/microcontroller-intro-with-arduinonano/blob/master/1-Environment-Setup/atmelstudio-multifile.md) for detailed directions).
 3. Implement the code shown below to finish the project.
 
 This is shown in detail in this video:
@@ -22,7 +22,22 @@ Other "terminal emulators" can be used however, for example TeraTerm is popular 
 
 ### Putty Configuration
 
+When you open Putty, configure:
 
+* Connection Type = Serial
+* Serial line = COM3 (on my computer, set as required on your device)
+* Speed = 9600
+ 
+Under the Connection -> Serial setup, change the following settings:
+* Flow Control: None
+ 
+Under Terminal, change the following settings:
+* Implicit CR in every LF: Checked
+* Local Echo: "Force On"
+
+Before opening Putty, be sure to SAVE those settings. In the future you just double-click on the settings name to configure that and open the port, a huge time saving!
+
+see the video for more details.
 
 ## Main Code
 
